@@ -1,4 +1,84 @@
-tile.nuclearcraft.fission_heater_port_emeraldwh.name=Emerald based Steam Heater Port
-tile.nuclearcraft.salt_fission_heater_emeraldwh.name=Emerald based Steam Heater
-nc.sf.emeraldwh_heater0=%sEmerald based Steam Heater
-nc.sf.emeraldwh_heater1=%sEmerald based Steam Heaters
+tile.nuclearcraft.fission_heater_port_emeraldwh.name=Emerald based HPS Heater Port
+tile.nuclearcraft.salt_fission_heater_emeraldwh.name=Emerald based HPS Heater
+nc.sf.emeraldwh_heater0=%s Emerald based HPS Heater
+nc.sf.emeraldwh_heater1=%s Emerald based HPS Heaters
+
+tile.nuclearcraft.fission_heater_port_emeraldwl.name=Emerald based LPS Heater Port
+tile.nuclearcraft.salt_fission_heater_emeraldwl.name=Emerald based LPS Heater
+nc.sf.emeraldwl_heater0=%s Emerald based LPS Heater
+nc.sf.emeraldwl_heater1=%s Emerald based LPS Heaters
+
+tile.nuclearcraft.fission_heater_port_emeraldph.name=Pressurized Emerald based HPS Heater Port
+tile.nuclearcraft.salt_fission_heater_emeraldph.name=Pressurized Emerald based HPS Heater
+nc.sf.emeraldph_heater0=%s Pressurized Emerald based HPS Heater
+nc.sf.emeraldph_heater1=%s Pressurized Emerald based HPS Heaters
+
+tile.nuclearcraft.fission_heater_port_emeraldpl.name=Pressurized Emerald based LPS Heater Port
+tile.nuclearcraft.salt_fission_heater_emeraldpl.name=Pressurized Emerald based LPS Heater
+nc.sf.emeraldpl_heater0=%s Pressurized Emerald based LPS Heater
+nc.sf.emeraldpl_heater1=%s Pressurized Emerald based LPS Heaters
+
+tile.nuclearcraft.fission_heater_port_emeraldwp.name=Emerald based Water Heater Port
+tile.nuclearcraft.salt_fission_heater_emeraldwp.name=Emerald based Water Heater 
+nc.sf.emeraldwp_heater0=%s Emerald based Water Heater
+nc.sf.emeraldwp_heater1=%s Emerald based Water Heaters
+
+tile.nuclearcraft.fission_heater_port_emeraldcp.name=Emerald based Condensate Water Heater Port
+tile.nuclearcraft.salt_fission_heater_emeraldcp.name=Emerald based Condensate Water Heater 
+nc.sf.emeraldcp_heater0=%s Emerald based Condensate Water Heater
+nc.sf.emeraldcp_heater1=%s Emerald based Condensate Water Heaters
+
+tile.nuclearcraft.fission_heater_port_emeraldclc.name=Emerald based Condensation Port
+tile.nuclearcraft.salt_fission_heater_emeraldcp.name=Emerald based Condensator
+nc.sf.emeraldclc_heater0=%s Emerald based Condensator
+nc.sf.emeraldclc_heater1=%s Emerald based Condensators
+
+tile.nuclearcraft.fission_heater_port_emeraldre.name=Emerald based Exhaust Steam Reheater Port
+tile.nuclearcraft.salt_fission_heater_emeraldre.name=Emerald based Exhaust Steam Reheater
+nc.sf.emeraldre_heater0=%s Emerald based Exhaust Steam Reheater
+nc.sf.emeraldre_heater1=%s Emerald based Exhaust Steam Reheaters
+
+tile.nuclearcraft.fission_heater_port_nakwh.name=Eutectic NaK based HPS Heater Port
+tile.nuclearcraft.salt_fission_heater_nakwh.name=Eutectic NaK based HPS Heater
+nc.sf.nakwh_heater0=%s Eutectic NaK based HPS Heater
+nc.sf.nakwh_heater1=%s Eutectic NaK based HPS Heaters
+
+tile.nuclearcraft.fission_heater_port_nakpl.name=Pressurized Eutectic NaK based LPS Heater Port
+tile.nuclearcraft.salt_fission_heater_nakpl.name=Pressurized Eutectic NaK based LPS Heater
+nc.sf.nakpl_heater0=%s Pressurized Eutectic NaK based LPS Heater
+nc.sf.nakpl_heater1=%s Pressurized Eutectic NaK based LPS Heaters
+
+tile.nuclearcraft.fission_heater_port_emeraldre.name=Eutectic NaK based Exhaust Steam Reheater Port
+tile.nuclearcraft.salt_fission_heater_emeraldre.name=Eutectic NaK based Exhaust Steam Reheater
+nc.sf.emeraldre_heater0=%s Eutectic NaK based Exhaust Steam Reheater
+nc.sf.emeraldre_heater1=%s Eutectic NaK based Exhaust Steam Reheaters
+
+tile.nuclearcraft.fission_heater_port_ironwl.name=Iron based LPS Heater Port
+tile.nuclearcraft.salt_fission_heater_ironwl.name=Iron based LPS Heater
+nc.sf.ironwl_heater0=%s Iron based LPS Heater
+nc.sf.ironwl_heater1=%s Iron based LPS Heaters
+
+tile.nuclearcraft.fission_heater_port_nakwh.name=NaK based HPS Heater Port
+tile.nuclearcraft.salt_fission_heater_nakwh.name=NaK based HPS Heater
+nc.sf.nakwh_heater0=%s NaK based HPS Heater
+nc.sf.nakwh_heater1=%s NaK based HPS Heaters
+
+tile.nuclearcraft.fission_heater_port_goldwl.name=Gold based LPS Heater Port
+tile.nuclearcraft.salt_fission_heater_goldwl.name=Gold based LPS Heater
+nc.sf.goldwl_heater0=%s Gold based LPS Heater
+nc.sf.goldwl_heater1=%s Gold based LPS Heaters
+
+tile.nuclearcraft.fission_heater_port_copperwh.name=Copper based HPS Heater Port
+tile.nuclearcraft.salt_fission_heater_copperwh.name=Copper based HPS Heater
+nc.sf.copperwh_heater0=%s Copper based HPS Heater
+nc.sf.copperwh_heater1=%s Copper based HPS Heaters
+
+tile.nuclearcraft.fission_heater_port_copperwl.name=Copper based LPS Heater Port
+tile.nuclearcraft.salt_fission_heater_copperwl.name=Copper based LPS Heater
+nc.sf.copperwl_heater0=%s Copper based LPS Heater
+nc.sf.copperwl_heater1=%s Copper based LPS Heaters
+
+tile.nuclearcraft.fission_heater_port_copperre.name=Copper based Exhaust Steam Reheater Port
+tile.nuclearcraft.salt_fission_heater_copperre.name=Copper based Exhaust Steam Reheater
+nc.sf.copperre_heater0=%s Copper based Exhaust Steam Reheater
+nc.sf.copperre_heater1=%s Copper based Exhaust Steam Reheaters
